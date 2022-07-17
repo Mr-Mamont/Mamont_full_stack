@@ -1,0 +1,15 @@
+C:\Users\Мамонт\Documents\GB\Seminar\dzseminar2\bin\Debug\net6.0\dzseminar2.exe
+C:\Users\Мамонт\Documents\GB\Seminar\dzseminar2\bin\Debug\net6.0\dzseminar2.deps.json
+C:\Users\Мамонт\Documents\GB\Seminar\dzseminar2\bin\Debug\net6.0\dzseminar2.runtimeconfig.json
+C:\Users\Мамонт\Documents\GB\Seminar\dzseminar2\bin\Debug\net6.0\dzseminar2.dll
+C:\Users\Мамонт\Documents\GB\Seminar\dzseminar2\bin\Debug\net6.0\dzseminar2.pdb
+C:\Users\Мамонт\Documents\GB\Seminar\dzseminar2\obj\Debug\net6.0\dzseminar2.csproj.AssemblyReference.cache
+C:\Users\Мамонт\Documents\GB\Seminar\dzseminar2\obj\Debug\net6.0\dzseminar2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мамонт\Documents\GB\Seminar\dzseminar2\obj\Debug\net6.0\dzseminar2.AssemblyInfoInputs.cache
+C:\Users\Мамонт\Documents\GB\Seminar\dzseminar2\obj\Debug\net6.0\dzseminar2.AssemblyInfo.cs
+C:\Users\Мамонт\Documents\GB\Seminar\dzseminar2\obj\Debug\net6.0\dzseminar2.csproj.CoreCompileInputs.cache
+C:\Users\Мамонт\Documents\GB\Seminar\dzseminar2\obj\Debug\net6.0\dzseminar2.dll
+C:\Users\Мамонт\Documents\GB\Seminar\dzseminar2\obj\Debug\net6.0\refint\dzseminar2.dll
+C:\Users\Мамонт\Documents\GB\Seminar\dzseminar2\obj\Debug\net6.0\dzseminar2.pdb
+C:\Users\Мамонт\Documents\GB\Seminar\dzseminar2\obj\Debug\net6.0\dzseminar2.genruntimeconfig.cache
+C:\Users\Мамонт\Documents\GB\Seminar\dzseminar2\obj\Debug\net6.0\ref\dzseminar2.dll
