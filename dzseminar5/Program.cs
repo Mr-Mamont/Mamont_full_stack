@@ -86,7 +86,7 @@ double maxNumber = arrayRealNumbers[0];
 double minNumber = arrayRealNumbers[0];
 
   for (int i = 1; i < arrayRealNumbers.Length; i++)
-  {
+    {
     if (maxNumber < arrayRealNumbers[i])
     {
       maxNumber = arrayRealNumbers[i];
