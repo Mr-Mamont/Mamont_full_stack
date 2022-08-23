@@ -1,0 +1,15 @@
+C:\Users\Мамонт\Documents\GB\Seminar\dzseninar7\bin\Debug\net6.0\dzseninar7.exe
+C:\Users\Мамонт\Documents\GB\Seminar\dzseninar7\bin\Debug\net6.0\dzseninar7.deps.json
+C:\Users\Мамонт\Documents\GB\Seminar\dzseninar7\bin\Debug\net6.0\dzseninar7.runtimeconfig.json
+C:\Users\Мамонт\Documents\GB\Seminar\dzseninar7\bin\Debug\net6.0\dzseninar7.dll
+C:\Users\Мамонт\Documents\GB\Seminar\dzseninar7\bin\Debug\net6.0\dzseninar7.pdb
+C:\Users\Мамонт\Documents\GB\Seminar\dzseninar7\obj\Debug\net6.0\dzseninar7.csproj.AssemblyReference.cache
+C:\Users\Мамонт\Documents\GB\Seminar\dzseninar7\obj\Debug\net6.0\dzseninar7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мамонт\Documents\GB\Seminar\dzseninar7\obj\Debug\net6.0\dzseninar7.AssemblyInfoInputs.cache
+C:\Users\Мамонт\Documents\GB\Seminar\dzseninar7\obj\Debug\net6.0\dzseninar7.AssemblyInfo.cs
+C:\Users\Мамонт\Documents\GB\Seminar\dzseninar7\obj\Debug\net6.0\dzseninar7.csproj.CoreCompileInputs.cache
+C:\Users\Мамонт\Documents\GB\Seminar\dzseninar7\obj\Debug\net6.0\dzseninar7.dll
+C:\Users\Мамонт\Documents\GB\Seminar\dzseninar7\obj\Debug\net6.0\refint\dzseninar7.dll
+C:\Users\Мамонт\Documents\GB\Seminar\dzseninar7\obj\Debug\net6.0\dzseninar7.pdb
+C:\Users\Мамонт\Documents\GB\Seminar\dzseninar7\obj\Debug\net6.0\dzseninar7.genruntimeconfig.cache
+C:\Users\Мамонт\Documents\GB\Seminar\dzseninar7\obj\Debug\net6.0\ref\dzseninar7.dll
