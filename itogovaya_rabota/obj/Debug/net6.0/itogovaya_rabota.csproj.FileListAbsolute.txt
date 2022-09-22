@@ -1,0 +1,15 @@
+C:\Users\Мамонт\Documents\GB\Seminar\itogovaya_rabota\bin\Debug\net6.0\itogovaya_rabota.exe
+C:\Users\Мамонт\Documents\GB\Seminar\itogovaya_rabota\bin\Debug\net6.0\itogovaya_rabota.deps.json
+C:\Users\Мамонт\Documents\GB\Seminar\itogovaya_rabota\bin\Debug\net6.0\itogovaya_rabota.runtimeconfig.json
+C:\Users\Мамонт\Documents\GB\Seminar\itogovaya_rabota\bin\Debug\net6.0\itogovaya_rabota.dll
+C:\Users\Мамонт\Documents\GB\Seminar\itogovaya_rabota\bin\Debug\net6.0\itogovaya_rabota.pdb
+C:\Users\Мамонт\Documents\GB\Seminar\itogovaya_rabota\obj\Debug\net6.0\itogovaya_rabota.csproj.AssemblyReference.cache
+C:\Users\Мамонт\Documents\GB\Seminar\itogovaya_rabota\obj\Debug\net6.0\itogovaya_rabota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мамонт\Documents\GB\Seminar\itogovaya_rabota\obj\Debug\net6.0\itogovaya_rabota.AssemblyInfoInputs.cache
+C:\Users\Мамонт\Documents\GB\Seminar\itogovaya_rabota\obj\Debug\net6.0\itogovaya_rabota.AssemblyInfo.cs
+C:\Users\Мамонт\Documents\GB\Seminar\itogovaya_rabota\obj\Debug\net6.0\itogovaya_rabota.csproj.CoreCompileInputs.cache
+C:\Users\Мамонт\Documents\GB\Seminar\itogovaya_rabota\obj\Debug\net6.0\itogovaya_rabota.dll
+C:\Users\Мамонт\Documents\GB\Seminar\itogovaya_rabota\obj\Debug\net6.0\refint\itogovaya_rabota.dll
+C:\Users\Мамонт\Documents\GB\Seminar\itogovaya_rabota\obj\Debug\net6.0\itogovaya_rabota.pdb
+C:\Users\Мамонт\Documents\GB\Seminar\itogovaya_rabota\obj\Debug\net6.0\itogovaya_rabota.genruntimeconfig.cache
+C:\Users\Мамонт\Documents\GB\Seminar\itogovaya_rabota\obj\Debug\net6.0\ref\itogovaya_rabota.dll
