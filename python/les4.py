@@ -13,6 +13,7 @@ system ('cls')
 # my_pi = sum(1 / 16 ** x * (4 / (8 * x + 1) - 2 / (8 * x + 4) - 1 / (8 * x + 5) - 1 / (8 * x + 6)) for x in range(n))
 # print(my_pi)
 
+
 # 2. Задайте натуральное число N. Напишите программу, 
 # которая составит список простых множителей числа N.
 # N = 6 | N = 12 | 32 | 13 | 9 | 18 | 21
@@ -120,24 +121,24 @@ system ('cls')
 # Задача - сформировать файл, содержащий сумму многочленов.
 
 
-with open('Polynomial.txt', 'w', encoding='utf-8') as file:
-    file.write('2*x^2 + 5*x^5')
-with open('Polynomial2.txt', 'w', encoding='utf-8') as file:
-    file.write('23*x^4 + 9*x^6')
+# with open('Polynomial.txt', 'w', encoding='utf-8') as file:
+#     file.write('2*x^2 + 5*x^5')
+# with open('Polynomial2.txt', 'w', encoding='utf-8') as file:
+#     file.write('23*x^4 + 9*x^6')
 
-with open('Polynomial.txt','r') as file:
-    poly_1 = file.readline()
-    list_of_poly_1 = poly_1.split()
+# with open('Polynomial.txt','r') as file:
+#     poly_1 = file.readline()
+#     list_of_poly_1 = poly_1.split()
 
-with open('Polynomial2.txt','r') as file:
-    poly_2 = file.readline()
-    list_of_poly_2 = poly_2.split()
+# with open('Polynomial2.txt','r') as file:
+#     poly_2 = file.readline()
+#     list_of_poly_2 = poly_2.split()
 
-print(f'{list_of_poly_1} + {list_of_poly_2}')
-sum_poly = list_of_poly_1 + list_of_poly_2
+# print(f'{list_of_poly_1} + {list_of_poly_2}')
+# sum_poly = list_of_poly_1 + list_of_poly_2
 
-with open('Sum_Polynomial.txt', 'w', encoding='utf-8') as file:
-    file.write(f'{list_of_poly_1} + {list_of_poly_2}')
+# with open('Sum_Polynomial.txt', 'w', encoding='utf-8') as file:
+#     file.write(f'{list_of_poly_1} + {list_of_poly_2}')
 
 
 
